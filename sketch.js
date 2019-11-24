@@ -121,7 +121,6 @@ function calculateResult(obj){
           return "Two pairs";
         }
       }
-      console.log(values);
       return "One pair";
     }
   }
